@@ -29,5 +29,6 @@ This is test file for the first push into remote github repository..
 981: 2052  git push 
 982: 2053  git push  origin master
 994: 2065  history |grep "git" -n -i
-1000: 2071  history |grep "git" -n -i >>test.txt 
+1000: 2071  history |grep "git" -n -i >>test.txt
+	   git diff <8 digits from log> <. for working directory or 8 digits from log>
 >>>>>>> e91e5b238f8879bbf8d202721bf8bc1f6a335924

@@ -1,1 +1,33 @@
+<<<<<<< HEAD
 This is test file for the first push into remote github repository..
+=======
+926: 1997  sudo apt-get install git
+936: 2007  sudo apt-get install git
+940: 2011  git init
+941: 2012  git config --global
+942: 2013  git config --global user.name "avneesh"
+943: 2014  git config --global user.email "engg.akd@gmail.com"
+944: 2015  git status
+946: 2017  cd .git/
+951: 2022  mkdir git_repo
+952: 2023  cd git_repo/
+953: 2024  git init
+954: 2025  git status
+955: 2026  git config --global user.email "engg.akd@gmail.com"
+956: 2027  git config --global user.name "avneesh"
+958: 2029  git status
+959: 2030  git remote add origin https://github.com/vaibhavd19/git_repo.git
+965: 2036  github
+968: 2039  ssh -T git@github.com
+969: 2040  git pull origin master
+974: 2045  git status
+975: 2046  git add test.txt
+976: 2047  git status
+977: 2048  git commit -m "first commit" test.txt
+978: 2049  git log
+979: 2050  git status
+981: 2052  git push 
+982: 2053  git push  origin master
+994: 2065  history |grep "git" -n -i
+1000: 2071  history |grep "git" -n -i >>test.txt 
+>>>>>>> e91e5b238f8879bbf8d202721bf8bc1f6a335924
